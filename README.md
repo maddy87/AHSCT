@@ -6,7 +6,8 @@ Clients were supposed to recieve notifications detailing outages of an specific 
 periodically. The manual process was tedious and erroneous and much of the time was wasted formatting the whole data.
 The tool enables the analyst to work on the problem at hand an spend minimum time creating and sending notifications.
 
-Design
+Design : 
+
  Splash screen to indicate application connectivity.
  Sleek Modular design with importance to process than convinience.
  Limited and only desired interaction
@@ -14,10 +15,10 @@ Design
  Hide on minimized to avoid cluttering on taskbar
  Seamless flow through the application hence least guidance expected
 
-Functionality
+Functionality : 
+
   Threaded environment allowing multiple threads load datasets when the application is launched
-  Dynamically updates the templates with the information in the desired bookmarks location and delete the update the information 
-  without changing the format.
+  Dynamically updates the templates with the information in the desired bookmarks location and delete the update the    information without changing the format.
   Exporting Data into Excel Format
   Sending Feedback to the developer
   ErrorReportingModule just in case there is an error occured

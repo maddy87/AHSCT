@@ -25,4 +25,7 @@ Functionality :
   Sending Email by trigerring macros inside the word document.
   Using Microsoft InterOp Assemblies perform spellcheck on the input provided
   Get the bookmarks intialized in the document and dynamically updating their   content with the one's provided by the programmer.
+  
+ The empty Database File DBAHSCT.mdb is uploaded with the DB design and table structure intact however the details of the 
+ applications have been removed as it was confidential to the organization.
 
